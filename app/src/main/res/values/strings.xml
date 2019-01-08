@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Projeto Final</string>
+    <string name="tv_title">Sístema Cadastral de Pessoa Física</string>
+    <string name="tv_dev">Desenvolvido por: Olivier Palma</string>
+    <string name="btn_insert">Inserir Pessoa Física</string>
+    <string name="tv_cadastrarTitle">Cadastrar Pessoa Física</string>
+    <string name="edt_Name">Nome</string>
+    <string name="edt_Cpf">CPF</string>
+    <string name="edt_age">Idade</string>
+    <string name="edt_phone">Telefone</string>
+    <string name="edt_email">Email</string>
+    <string name="btn_save">Salvar Dados</string>
+    <string name="btn_list">Listar Registros</string>
+    <string name="btn_back">Voltar</string>
+</resources>
